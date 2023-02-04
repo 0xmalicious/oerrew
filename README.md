@@ -26,8 +26,8 @@
 
 <div>
   <img src="https://simpleicons.org/icons/html5.svg" title="HTML5" alt="HTML5" width="64" height="64"/>&nbsp;
-  <img src="https://simpleicons.org/icons/php.svg" title="PHP" alt="PHP" width="64" height="64"/>&nbsp;
   <img src="https://simpleicons.org/icons/css3.svg" title="CSS3" alt="CSS3" width="64" height="64"/>&nbsp;
+  <img src="https://simpleicons.org/icons/php.svg" title="PHP" alt="PHP" width="64" height="64"/>&nbsp;
   <img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="64" height="64"/>&nbsp;
   </div>
 
