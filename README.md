@@ -1,5 +1,5 @@
 ## Currently learning about cybersecurity and networking. Developpement enjoyer. <br>
-<img src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="25" height="25"> <h2><a href="https://discord.gg/TSxyWjrtFd" target=_blank> Discord User</a></h2>
+<img src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="25" height="25"><a href="https://discord.gg/TSxyWjrtFd" target=_blank> Discord User</a>
 
 ### 💻 • Mastered operating systems:
 
