@@ -1,4 +1,4 @@
-## Currently learning about cybersecurity and networking. Developpement enjoyer.
+## Currently learning about cybersecurity and networking. Developpement enjoyer. <a> Discord User <href=https://discord.gg/TSxyWjrtFd></a>
 
 ### 💻 • Mastered operating systems:
 
