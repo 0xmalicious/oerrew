@@ -1,4 +1,4 @@
-## Currently learning about cybersecurity and networking.
+## Currently learning about cybersecurity and networking. Developpement enjoyer.
 
 ### 🧷 • Social Medias
 
