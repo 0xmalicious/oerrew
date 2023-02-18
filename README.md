@@ -7,6 +7,7 @@
    <a href="https://www.twitter.com/oerrew" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" height=64 weight=64></a>
       <a href="https://www.youtube.com/@werreo" target="_blank" rel="noopener noreferrer"> <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-youtube-social-media-round-icon-png-image_6315993.png" height=64 weight=64></a>
          <a href="https://steamcommunity.com/profiles/76561198301465281" target="_blank" rel="noopener noreferrer"> <img src="https://www.freeiconspng.com/thumbs/steam-icon/steam-icon-19.png" height=64 weight=64></a>
+           <a href="https://t.snapchat.com/4w2x3jXy" target="_blank" rel="noopener noreferrer"> <img src="http://37.187.39.241/snapchatlogo.png" height=64 weight=64>    </a>
    </div>
 
 ### 💻 • Mastered operating systems:
