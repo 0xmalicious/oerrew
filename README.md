@@ -41,10 +41,8 @@
   </div>
 
 ### 📈 • Github statistics
+
 <div>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xmalicious.png" alt="TryHackMe">
-
    <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=oerrew&show_icons=true&theme=dark"
@@ -56,4 +54,9 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=oerrew&show_icons=true" />
 </picture>
+</div>
+
+### 🃏 • TryHackMe's statistics
+<div>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/0xmalicious.png" alt="TryHackMe">
 </div>
