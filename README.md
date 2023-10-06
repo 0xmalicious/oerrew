@@ -43,7 +43,8 @@
 ### 📈 • Github statistics
 <div>
 
-   <script src="https://tryhackme.com/badge/2309178"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xmalicious.png" alt="TryHackMe">
+
    <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=oerrew&show_icons=true&theme=dark"
